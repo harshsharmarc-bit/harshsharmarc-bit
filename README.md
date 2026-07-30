@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Modern Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer;Data+Analyst;Java+Developer;Python+Developer;Backend+Developer;Always+Learning+🚀" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer;Data+Analyst;Java+Developer;Python+Developer;Backend+Developer;Always+Learning+🚀" /> -->
 
 <p align="center">
   <a href="https://linkedin.com/in/harsh-sharma-80307033b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
