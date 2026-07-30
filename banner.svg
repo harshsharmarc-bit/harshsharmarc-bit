@@ -1,0 +1,37 @@
+<svg fill="none" viewBox="0 0 800 300" width="800" height="300" xmlns="http://www.w3.org/1999/xhtml">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes wave { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(20deg); } }
+        @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } }
+        @keyframes scroll { 0% { transform: translateY(0); } 100% { transform: translateY(-50%); } }
+        .container { width: 800px; height: 300px; background: #0d1117; display: flex; align-items: center; justify-content: center; border-radius: 15px; border: 2px solid #36bcf7; font-family: 'Segoe UI', sans-serif; overflow: hidden; position: relative; }
+        .glass { background: rgba(54, 188, 247, 0.1); backdrop-filter: blur(10px); padding: 30px; border-radius: 20px; display: flex; align-items: center; gap: 40px; z-index: 5; border: 1px solid rgba(54, 188, 247, 0.3); }
+        .laptop { width: 140px; height: 90px; background: #161b22; border: 3px solid #36bcf7; border-radius: 8px; position: relative; overflow: hidden; animation: float 3s infinite ease-in-out; }
+        .code { font-size: 6px; color: #36bcf7; font-family: monospace; padding: 5px; animation: scroll 6s linear infinite; }
+        .hand { font-size: 40px; position: absolute; bottom: -10px; right: -10px; animation: wave 2s infinite; transform-origin: 70% 70%; }
+        .text h1 { font-size: 38px; color: #36bcf7; margin: 0; text-shadow: 0 0 10px rgba(54,188,247,0.5); }
+        .text p { font-size: 18px; color: #8b949e; margin: 5px 0; }
+        .tags { font-size: 12px; color: #58a6ff; font-family: monospace; }
+      </style>
+      <div class="container">
+        <div class="glass">
+          <div style="position:relative">
+            <div class="laptop">
+              <div class="code">
+                while(true) {<br/>&nbsp;&nbsp;code();<br/>&nbsp;&nbsp;analyze();<br/>&nbsp;&nbsp;improve();<br/>}<br/>
+                while(true) {<br/>&nbsp;&nbsp;code();<br/>&nbsp;&nbsp;analyze();<br/>&nbsp;&nbsp;improve();<br/>}<br/>
+              </div>
+            </div>
+            <div class="hand">👋</div>
+          </div>
+          <div class="text">
+            <h1>Harsh Sharma</h1>
+            <p>Software Developer | Data Analyst</p>
+            <div class="tags">Java • Python • Django • React • Node.js</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
