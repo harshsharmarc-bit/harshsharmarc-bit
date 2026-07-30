@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Premium Self-Hosted Banner -->
-<img src="banner.svg" width="100%" alt="Harsh Sharma" />
+<img src="washroom image.jpeg" width="100%" alt="Harsh Sharma" />
 
 <br/>
 
