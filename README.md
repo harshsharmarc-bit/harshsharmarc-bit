@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm   Harsh Sharma.<br><br>💻 Passionate about software development and open-source.<br>🚀 I enjoy building scalable web applications and exploring modern technologies.<br>🌱 Currently learning new frameworks and improving my problem-solving skills.<br>⚡ I believe in writing clean, efficient, and maintainable code.<br>🎯 Always curious, always learning, and always building.<br>
+## 👋 About Me<br><br>Hi, I'm   Harsh Sharma..<br><br>💻 Passionate about software development and open-source.<br>🚀 I enjoy building scalable web applications and exploring modern technologies.<br>🌱 Currently learning new frameworks and improving my problem-solving skills.<br>⚡ I believe in writing clean, efficient, and maintainable code.<br>🎯 Always curious, always learning, and always building.<br>
 
 
 ## 🌐 Socials:
